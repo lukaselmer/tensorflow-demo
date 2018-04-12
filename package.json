@@ -1,0 +1,27 @@
+{
+  "name": "tensorflow-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tfjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaselmer/tensorflow-demo.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "demo"
+  ],
+  "author": "Lukas Elmer <lukas.elmer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaselmer/tensorflow-demo/issues"
+  },
+  "homepage": "https://github.com/lukaselmer/tensorflow-demo#readme"
+}
